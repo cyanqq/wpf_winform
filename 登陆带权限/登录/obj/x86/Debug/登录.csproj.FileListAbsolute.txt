@@ -1,0 +1,53 @@
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\bin\Debug\登录.exe
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\bin\Debug\登录.pdb
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\登录.Properties.Resources.resources
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\登录.exe
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\登录.pdb
+d:\backup\我的文档\visual studio 2010\Projects\登录\登录\obj\x86\Debug\登录.form_longin.resources
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\登录.exe
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\登录.pdb
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\登录.form_longin.resources
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\登录.Properties.Resources.resources
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BaiduYunDownload\登录\登录\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BaiduYunDownload\登录\登录\bin\Debug\登录.exe
+F:\BaiduYunDownload\登录\登录\bin\Debug\登录.pdb
+D:\Backup\桌面\登录\登录\obj\x86\Debug\登录.exe
+D:\Backup\桌面\登录\登录\obj\x86\Debug\登录.pdb
+D:\Backup\桌面\登录\登录\bin\Debug\登录.exe
+D:\Backup\桌面\登录\登录\bin\Debug\登录.pdb
+D:\Backup\桌面\登录\登录\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\桌面\登录\登录\obj\x86\Debug\登录.form_longin.resources
+D:\Backup\桌面\登录\登录\obj\x86\Debug\登录.Properties.Resources.resources
+D:\Backup\桌面\登录\登录\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\桌面\登录\登录\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.exe
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.pdb
+D:\Backup\桌面\登陆带权限\登录\bin\Debug\登录.exe
+D:\Backup\桌面\登陆带权限\登录\bin\Debug\登录.pdb
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.form_longin.resources
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.Properties.Resources.resources
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_AD.resources
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_DM.resources
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.职务.form_GM.resources
+D:\Backup\桌面\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_User.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.exe
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.pdb
+C:\Users\Administrator\Desktop\登陆带权限\登录\bin\Debug\登录.exe
+C:\Users\Administrator\Desktop\登陆带权限\登录\bin\Debug\登录.pdb
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.form_longin.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.Properties.Resources.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_AD.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_DM.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.职务.form_GM.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\登录.职务.Form_User.resources
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\登陆带权限\登录\obj\x86\Debug\GenerateResource.write.1.tlog
